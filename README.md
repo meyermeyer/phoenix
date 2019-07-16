@@ -1,5 +1,7 @@
 # Phoenix - Job Hunting Application
 
+Demo the Application here: https://phoenix-jobs.herokuapp.com/#/home
+
 Phoenix is a desktop web application which helps job seekers approach their job search as they would their daily work. With a focus on mid-career professionals, Phoenix allows registered users to identify goals and daily tasks, while tracking their progress through the application and interview process.  The simple interface displays upcoming tasks, job related contacts, and career goals  in one place so users can stay organized and motivated.
 
 This version uses React, Redux, Express, Passport, and PostgreSQL (a full list of dependencies can be found in `package.json`).
